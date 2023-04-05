@@ -1,5 +1,5 @@
 // Time interval in milliseconds after which the history, cookies and cache will be cleared
-const intervalInMilliseconds = 24 * 60 * 60 * 1000; // 24 hours
+const intervalInMilliseconds = 10000; // 10  seconds
 
 // Function to clear browsing history, cookies, and cache
 function clearData() {
